@@ -1,4 +1,5 @@
-# Running K6 load testing on Docker and Kubernetes
+# Running K6 load testing on Docker
+Visit https://k6.io/ for more information.
 
 ## Create a load testing script
 ```
